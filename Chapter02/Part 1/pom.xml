@@ -24,7 +24,7 @@
         <maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
         <maven-failsafe-plugin.version>2.21.0</maven-failsafe-plugin.version>
         <!-- Configurable variables -->
-        <threads>2</threads>
+        <threads>1</threads>
         <browser>chrome</browser>
         <overwrite.binaries>false</overwrite.binaries>
         <headless>true</headless>
